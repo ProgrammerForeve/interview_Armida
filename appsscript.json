@@ -1,0 +1,14 @@
+{
+  "timeZone": "Etc/GMT-3",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "createOrder",
+      "functionName": "createOrder",
+      "defaultShortcut": "Ctrl+Alt+Shift+1"
+    }]
+  }
+}
