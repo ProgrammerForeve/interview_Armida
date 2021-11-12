@@ -1,6 +1,6 @@
 # interview_Armida
 ____
-[Демонстрационная таблица](https://docs.google.com/spreadsheets/d/1ImBOVOq80qEjWE0OAPSanQhT2R1uVIhDQFk7C2YzEM8/copy)
+![Демонстрационная таблица](https://github.com/ProgrammerForeve/interview_Armida/blob/main/media/google-sheets_64x64.png)[Демонстрационная таблица](https://docs.google.com/spreadsheets/d/1ImBOVOq80qEjWE0OAPSanQhT2R1uVIhDQFk7C2YzEM8/copy)
 # Особенности таблицы:
   + Реализована мультиязычность интерфейса: меню и информационных сообщений
   + Нельзя указать неположительное или нецелое число для заказа товара
