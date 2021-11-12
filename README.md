@@ -1,10 +1,12 @@
 # interview_Armida
 ____
-![Демонстрационная таблица](https://github.com/ProgrammerForeve/interview_Armida/blob/main/media/google-sheets_64x64.png)[Демонстрационная таблица](https://docs.google.com/spreadsheets/d/1ImBOVOq80qEjWE0OAPSanQhT2R1uVIhDQFk7C2YzEM8/copy)
+<a href="https://docs.google.com/spreadsheets/d/1ImBOVOq80qEjWE0OAPSanQhT2R1uVIhDQFk7C2YzEM8/copy"><img src="https://github.com/ProgrammerForeve/interview_Armida/blob/main/media/google-sheets.png" height=64 width=64>Демонстрационная таблица</a>
+____
 # Особенности таблицы:
   + Реализована мультиязычность интерфейса: меню и информационных сообщений
   + Нельзя указать неположительное или нецелое число для заказа товара
   + Функцию формирования заказа можно вызвать двумя способами: через меню или сочетанием клавиш
+  + Меню смены языка - динамическое, зависит от содержимого объекта STRINGS в файле локализации
   ____
 # Описание файлов скрипта:
 ## main.gs:
